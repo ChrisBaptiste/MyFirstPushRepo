@@ -1,3 +1,7 @@
 hello world
 my first app
 commiting via git hub desktop GUI
+
+
+I want to make an app and launch it on the app store befor i finsh this course. 
+I need to manifest this.
